@@ -1,0 +1,10 @@
+* dynamically type language:-the data type of value is dynamically assigned we dont need to mention it seperately
+* py over other :-compiler or interpeter no matter it depends upon hardware like i5 proceessor
+more libaries as comparied to other langugae
+ui part is disadvantage in py
+****dont use key word as variable name****
+there is a major case scenario 
+tuple with one element:new_var = (1,)
+print and return difference:print is used to write something on output screen where as return returns its value
+fesible sol:ways to sol,no.of sol
+optimal sol:short path ,best of fesible
